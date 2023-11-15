@@ -1,0 +1,123 @@
+/* header */
+
+  @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Crimson+Pro:wght@200&family=PT+Serif&display=swap');
+
+header{
+   
+   font-family: Inter;
+   font-size: 16px;
+   font-weight: 600;
+   line-height: 26px;
+   letter-spacing: 0px;
+   text-align: center;
+}
+ header .text1
+ {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 54px;
+    line-height: 62px;
+    text-align: center;
+}
+.foto{
+    cursor: pointer;
+}
+.text{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section1{
+    display: flex;
+
+}
+.info{
+    margin-left: 10px;
+}
+.name
+{    
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 18px;
+   font-weight: 600;
+   line-height: 30px;
+   letter-spacing: 0px;
+   text-align: left;
+   color: rgb(8, 8, 8);
+   cursor: pointer;
+   margin-top: 10px;
+}
+p
+{
+   font-size: 19px;
+   line-height: 22px;
+   text-align: center;
+   color: rgba(95, 105, 128, 1);
+   
+}
+p1
+{
+    font-size: 19px;
+   line-height: 22px;
+   color: rgba(95, 105, 128, 1);
+   display: block;
+}
+p2{
+    color: rgba(95, 105, 128, 1);
+}
+
+.icons{
+  cursor: pointer;
+}
+.icon{
+    margin-left: 25px;
+}
+.box{
+    margin: 30px;   
+}
+.section2{
+    display: flex;
+}
+footer{
+    width: 100%;
+    height: 512px;
+    background: rgba(83, 83, 83, 0.33);
+    display: flex;
+}
+.logo1{
+    cursor: pointer;
+}
+.block1{
+    margin: 80px;
+    margin-block-end: 40px;
+   width: 318.05px;
+   height: 221px;
+    margin-top: 100px;
+}
+.icon1{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+.block2{
+    
+   width: 318.05px;
+   height: 221px;
+    margin-top: 120px;
+   margin-left: 50px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.frame1{ 
+    width: 80px;
+    height: 35px;
+    margin-top: 80px;
+    background: rgba(5, 74, 104, 1);
+}
+.text3{
+    color: white;
+    cursor: pointer;
+    margin: 15px;
+    margin-top: 10px;
+}
